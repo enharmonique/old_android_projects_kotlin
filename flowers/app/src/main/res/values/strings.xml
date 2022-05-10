@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">flowers</string>
+
+    <string-array name="flowers">
+        <item>F1</item>
+        <item>F2</item>
+        <item>F3</item>
+        <item>F4</item>
+    </string-array>
+</resources>
